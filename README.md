@@ -13,8 +13,7 @@ java -jar target/application-jar-with-dependencies.jar
 ```
 С использованием docker:
 ```bash
-docker build -t metadata-extractor .
-docker run -v /app/pdftest/Files:<aбсолютный путь до папки Files>:ro metadata-extractor
+./script.sh
 ```
 ----
 
