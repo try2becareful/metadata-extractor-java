@@ -13,6 +13,7 @@ java -jar target/application-jar-with-dependencies.jar
 ```
 С использованием docker:
 ```bash
+chmod 777 script.sh
 ./script.sh
 ```
 ----
