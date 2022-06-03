@@ -1,7 +1,9 @@
 package main.java.com.Parsers;
 
 import org.junit.jupiter.api.Test;
-
+import main.java.com.Parsers.RtfParser;
+import main.java.com.Parsers.HtmlParser;
+import main.java.com.Parsers.Parser;
 import javax.swing.text.BadLocationException;
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;
