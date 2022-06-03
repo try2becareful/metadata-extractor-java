@@ -10,7 +10,7 @@ import java.io.*;
 
 public class RtfParser implements Parser {
     @Override
-    public void Parse(String file_name) throws BadLocationException {
+    public void Parse(String file_name, StringBuilder Line) throws BadLocationException {
         DefaultStyledDocument styledDoc = null;
         try {
             styledDoc = new DefaultStyledDocument();

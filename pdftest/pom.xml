@@ -21,6 +21,12 @@
             <artifactId>jsoup</artifactId>
             <version>1.15.1</version>
         </dependency>
+        <dependency>
+            <!-- jsoup HTML parser library @ https://jsoup.org/ -->
+            <groupId>org.junit.jupiter</groupId>
+            <artifactId>junit-jupiter</artifactId>
+            <version>5.7.1</version>
+        </dependency>
     </dependencies>
     <build>
         <finalName>application</finalName>

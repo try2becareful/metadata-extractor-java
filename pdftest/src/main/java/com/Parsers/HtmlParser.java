@@ -13,7 +13,7 @@ import java.io.PrintWriter;
 
 public class HtmlParser implements Parser {
     @Override
-    public void Parse(String file_name) throws BadLocationException {
+    public void Parse(String file_name, StringBuilder Line) throws BadLocationException {
         try {
             File input = new File(file_name);
             Document doc = Jsoup.parse(input, "UTF-8");
@@ -21,11 +21,11 @@ public class HtmlParser implements Parser {
             Elements list_of_paragraphs = doc.body().select("*");
 
             FileWriter writer = new FileWriter("result.txt", true);
-
             writer.write("\n------------------------------- " + file_name + " -------------------------------\n");
             for (Element line : list_of_paragraphs) {
                 if (!line.ownText().isEmpty()) {
                     writer.write(line.ownText());
+                    Line.append(line.ownText()).append("\n");
                 }
             }
             writer.write("\n--------------------------------------------------------------\n");

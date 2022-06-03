@@ -17,7 +17,6 @@ import main.java.com.fileTypeAnalyzer.detectType;
 public class Main {
 
     public static String Detect_type(String file_name) throws IOException {
-//        TODO need to write type detector
         String fileType = "";
         detectType detect = new detectType();
         if (detect.detector(file_name, "{\\rtf"))
@@ -64,13 +63,14 @@ public class Main {
 
         for (File file_name : fileList) {
             type_of_file = Detect_type(file_name.getAbsolutePath());
+            StringBuilder Line = new StringBuilder();
             if (type_of_file.equals("html")) {
                 Parser technology = new HtmlParser();
-                technology.Parse(file_name.getAbsolutePath());
+                technology.Parse(file_name.getAbsolutePath(), Line);
                 parsed = true;
             } else if (type_of_file.equals("rtf")) {
                 Parser technology = new RtfParser();
-                technology.Parse(file_name.getAbsolutePath());
+                technology.Parse(file_name.getAbsolutePath(), Line);
                 parsed = true;
             }
             if (parsed) {

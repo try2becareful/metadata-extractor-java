@@ -1,5 +1,7 @@
-package main.java.com.Parsers;
+package main.java.com.Parsers.tests;
 
+import main.java.com.Parsers.HtmlParser;
+import main.java.com.Parsers.Parser;
 import org.junit.jupiter.api.Test;
 
 import javax.swing.text.BadLocationException;
