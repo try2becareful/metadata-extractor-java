@@ -18,10 +18,12 @@ public class RtfParser implements Parser {
             InputStream is = new FileInputStream(file_name);
             new RTFEditorKit().read(is, styledDoc, 0);
             FileWriter writer = new FileWriter("result.txt", true);
+            System.out.println("\n------------------------------- " + file_name + " -------------------------------\n");
             writer.write("\n------------------------------- " + file_name + " -------------------------------\n");
             writer.write(styledDoc.getText(0, styledDoc.getLength()));
-            // Попытка заполнить Line
+            System.out.println(styledDoc.getText(0, styledDoc.getLength()));
             writer.write("\n--------------------------------------------------------------\n");
+            System.out.println("\n--------------------------------------------------------------\n");
             writer.close();
             FileReader fr = new FileReader("result.txt");
             BufferedReader reader = new BufferedReader(fr);
