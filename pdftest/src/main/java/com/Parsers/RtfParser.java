@@ -14,15 +14,35 @@ public class RtfParser implements Parser {
         DefaultStyledDocument styledDoc = null;
         try {
             styledDoc = new DefaultStyledDocument();
+            boolean need_to_write = false;
             InputStream is = new FileInputStream(file_name);
             new RTFEditorKit().read(is, styledDoc, 0);
             FileWriter writer = new FileWriter("result.txt", true);
             writer.write("\n------------------------------- " + file_name + " -------------------------------\n");
             writer.write(styledDoc.getText(0, styledDoc.getLength()));
             // Попытка заполнить Line
-            Line.append(styledDoc.getText(0, styledDoc.getLength()));
             writer.write("\n--------------------------------------------------------------\n");
             writer.close();
+            FileReader fr = new FileReader("result.txt");
+            BufferedReader reader = new BufferedReader(fr);
+            String line = reader.readLine();
+            while (line != null) {
+                if (need_to_write) {
+                    if (line.equals("--------------------------------------------------------------")) {
+                        Line.append(line);
+                        break;
+                    }
+                    Line.append(line);
+                }
+                if (!need_to_write && line.equals("------------------------------- src/test/java/resources/test.rtf -------------------------------")) {
+                    Line.append(line);
+                    need_to_write = true;
+                }
+                // считываем остальные строки в цикле
+                line = reader.readLine();
+            }
+            reader.close();
+            fr.close();
 
         } catch (BadLocationException e) {
             System.out.println("BadLocationException occurred when extracting text from RTF file:" + file_name);

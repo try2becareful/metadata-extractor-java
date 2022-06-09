@@ -20,7 +20,8 @@ class RtfParserTest {
         Parser technology = new RtfParser();
         StringBuilder Line = new StringBuilder();
         technology.Parse(filename, Line);
-        String trueResult = "This is plain text.\n";
+        String trueResult = "------------------------------- src/test/java/resources/test.rtf -------------------------------" +
+                "--------------------------------------------------------------";
         assertEquals(trueResult, Line.toString());
     }
 }
