@@ -106,3 +106,187 @@ test htmlyo
 ------------------------------- C:\Users\nikit\git\metadata-extractor-java\pdftest\src\main\java\com\Parsers\resources\theory_breakdown_final.html -------------------------------
 test htmlyo
 --------------------------------------------------------------
+
+------------------------------- C:\Users\nikit\git\metadata-extractor-java\pdftest\src\main\java\com\Parsers\resources\theory_breakdown_final.html -------------------------------
+test htmlyo
+--------------------------------------------------------------
+
+------------------------------- C:\Users\nikit\git\metadata-extractor-java\pdftest\src\main\java\com\Parsers\resources\theory_breakdown_final.html -------------------------------
+test htmlyo
+--------------------------------------------------------------
+
+------------------------------- C:\Users\nikit\git\metadata-extractor-java\pdftest\src\main\java\com\Parsers\resources\theory_breakdown_final.html -------------------------------
+test htmlyo
+--------------------------------------------------------------
+
+------------------------------- C:\Users\nikit\git\metadata-extractor-java\pdftest\src\main\java\com\Parsers\resources\theory_breakdown_final.html -------------------------------
+test htmlyo
+--------------------------------------------------------------
+
+------------------------------- C:\Users\nikit\git\metadata-extractor-java\pdftest\src\main\java\com\Parsers\resources\theory_breakdown_final.html -------------------------------
+test htmlyo
+--------------------------------------------------------------
+
+------------------------------- C:\Users\nikit\git\metadata-extractor-java\pdftest\src\main\java\com\Parsers\resources\theory_breakdown_final.html -------------------------------
+test htmlyo
+--------------------------------------------------------------
+
+------------------------------- C:\Users\nikit\git\metadata-extractor-java\pdftest\src\test\recourses\theory_breakdown_final.html -------------------------------
+test htmlyo
+--------------------------------------------------------------
+
+------------------------------- C:\Users\nikit\git\metadata-extractor-java\pdftest\src\test\recourses\theory_breakdown_final.html -------------------------------
+test htmlyo
+--------------------------------------------------------------
+
+------------------------------- C:\Users\nikit\git\metadata-extractor-java\pdftest\src\test\recourses\test.rtf -------------------------------
+
+--------------------------------------------------------------
+
+------------------------------- C:\Users\nikit\git\metadata-extractor-java\pdftest\src\test\recourses\test.rtf -------------------------------
+
+--------------------------------------------------------------
+
+------------------------------- C:\Users\nikit\git\metadata-extractor-java\pdftest\src\test\recourses\test.rtf -------------------------------
+
+--------------------------------------------------------------
+
+------------------------------- C:\Users\nikit\git\metadata-extractor-java\pdftest\src\test\recourses\test.rtf -------------------------------
+
+--------------------------------------------------------------
+
+------------------------------- C:\Users\nikit\git\metadata-extractor-java\pdftest\src\test\recourses\test.rtf -------------------------------
+
+--------------------------------------------------------------
+
+------------------------------- C:\Users\nikit\git\metadata-extractor-java\pdftest\src\test\recourses\test.rtf -------------------------------
+
+--------------------------------------------------------------
+
+------------------------------- C:\Users\nikit\git\metadata-extractor-java\pdftest\src\test\recourses\test.rtf -------------------------------
+
+--------------------------------------------------------------
+
+------------------------------- C:\Users\nikit\git\metadata-extractor-java\pdftest\src\test\recourses\test.rtf -------------------------------
+
+--------------------------------------------------------------
+
+------------------------------- C:\Users\nikit\git\metadata-extractor-java\pdftest\src\test\recourses\theory_breakdown_final.html -------------------------------
+test htmlyo
+--------------------------------------------------------------
+
+------------------------------- C:\Users\nikit\git\metadata-extractor-java\pdftest\src\test\recourses\test.rtf -------------------------------
+
+--------------------------------------------------------------
+
+------------------------------- C:\Users\nikit\git\metadata-extractor-java\pdftest\src\test\recourses\test.rtf -------------------------------
+
+--------------------------------------------------------------
+
+------------------------------- C:\Users\nikit\git\metadata-extractor-java\pdftest\src\test\recourses\test.rtf -------------------------------
+
+--------------------------------------------------------------
+
+------------------------------- C:\Users\nikit\git\metadata-extractor-java\pdftest\src\test\recourses\theory_breakdown_final.html -------------------------------
+test htmlyo
+--------------------------------------------------------------
+
+------------------------------- C:\Users\nikit\git\metadata-extractor-java\pdftest\src\test\recourses\test.rtf -------------------------------
+
+--------------------------------------------------------------
+
+------------------------------- C:\Users\nikit\git\metadata-extractor-java\pdftest\src\test\recourses\theory_breakdown_final.html -------------------------------
+test htmlyo
+--------------------------------------------------------------
+
+------------------------------- C:\Users\nikit\git\metadata-extractor-java\pdftest\src\test\recourses\test.rtf -------------------------------
+
+--------------------------------------------------------------
+
+------------------------------- C:\Users\nikit\git\metadata-extractor-java\pdftest\src\test\recourses\test.rtf -------------------------------
+
+--------------------------------------------------------------
+
+------------------------------- C:\Users\nikit\git\metadata-extractor-java\pdftest\src\test\recourses\theory_breakdown_final.html -------------------------------
+test htmlyo
+--------------------------------------------------------------
+
+------------------------------- C:\Users\nikit\git\metadata-extractor-java\pdftest\src\test\recourses\theory_breakdown_final.html -------------------------------
+test htmlyo
+--------------------------------------------------------------
+
+------------------------------- C:\Users\nikit\git\metadata-extractor-java\pdftest\src\test\resources\theory_breakdown_final.html -------------------------------
+test htmlyo
+--------------------------------------------------------------
+
+------------------------------- C:\Users\nikit\git\metadata-extractor-java\pdftest\src\test\resources\theory_breakdown_final.html -------------------------------
+test htmlyo
+--------------------------------------------------------------
+
+------------------------------- C:\Users\nikit\git\metadata-extractor-java\pdftest\src\test\resources\theory_breakdown_final.html -------------------------------
+test htmlyo
+--------------------------------------------------------------
+
+------------------------------- C:\Users\nikit\git\metadata-extractor-java\pdftest\src\test\java\resources\theory_breakdown_final.html -------------------------------
+test htmlyo
+--------------------------------------------------------------
+
+------------------------------- C:\Users\nikit\git\metadata-extractor-java\pdftest\src\test\java\resources\theory_breakdown_final.html -------------------------------
+test htmlyo
+--------------------------------------------------------------
+
+------------------------------- C:\Users\nikit\git\metadata-extractor-java\pdftest\src\test\java\resources\theory_breakdown_final.html -------------------------------
+test htmlyo
+--------------------------------------------------------------
+
+------------------------------- C:\Users\nikit\git\metadata-extractor-java\pdftest\src\test\java\resources\theory_breakdown_final.html -------------------------------
+test htmlyo
+--------------------------------------------------------------
+
+------------------------------- C:\Users\nikit\git\metadata-extractor-java\pdftest\src\test\java\resources\theory_breakdown_final.html -------------------------------
+test htmlyo
+--------------------------------------------------------------
+
+------------------------------- C:\Users\nikit\git\metadata-extractor-java\pdftest\src\test\java\resources\theory_breakdown_final.html -------------------------------
+test htmlyo
+--------------------------------------------------------------
+
+------------------------------- C:\Users\nikit\git\metadata-extractor-java\pdftest\src\test\java\resources\theory_breakdown_final.html -------------------------------
+test htmlyo
+--------------------------------------------------------------
+
+------------------------------- C:\Users\nikit\git\metadata-extractor-java\pdftest\src\test\java\resources\theory_breakdown_final.html -------------------------------
+test htmlyo
+--------------------------------------------------------------
+
+------------------------------- C:\Users\nikit\git\metadata-extractor-java\pdftest\src\test\java\resources\theory_breakdown_final.html -------------------------------
+test htmlyo
+--------------------------------------------------------------
+
+------------------------------- C:\Users\nikit\git\metadata-extractor-java\pdftest\src\test\java\resources\test.rtf -------------------------------
+
+--------------------------------------------------------------
+
+------------------------------- C:\Users\nikit\git\metadata-extractor-java\pdftest\src\test\java\resources\theory_breakdown_final.html -------------------------------
+test htmlyo
+--------------------------------------------------------------
+
+------------------------------- C:\Users\nikit\git\metadata-extractor-java\pdftest\src\test\java\resources\test.rtf -------------------------------
+
+--------------------------------------------------------------
+
+------------------------------- C:\Users\nikit\git\metadata-extractor-java\pdftest\src\test\java\resources\theory_breakdown_final.html -------------------------------
+test htmlyo
+--------------------------------------------------------------
+
+------------------------------- C:\Users\nikit\git\metadata-extractor-java\pdftest\src\test\java\resources\test.rtf -------------------------------
+
+--------------------------------------------------------------
+
+------------------------------- C:\Users\nikit\git\metadata-extractor-java\pdftest\src\test\java\resources\theory_breakdown_final.html -------------------------------
+test htmlyo
+--------------------------------------------------------------
+
+------------------------------- C:\Users\nikit\git\metadata-extractor-java\pdftest\src\test\java\resources\test.rtf -------------------------------
+
+--------------------------------------------------------------

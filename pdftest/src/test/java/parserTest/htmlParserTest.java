@@ -1,26 +1,22 @@
-package main.java.com.Parsers.tests;
+package test.java.parserTest;
 
 import main.java.com.Parsers.HtmlParser;
 import main.java.com.Parsers.Parser;
 import org.junit.jupiter.api.Test;
-
 import javax.swing.text.BadLocationException;
-import java.io.ByteArrayOutputStream;
-import java.io.IOException;
-import java.io.InputStream;
-import java.io.OutputStream;
-
+import java.io.*;
 import static org.junit.jupiter.api.Assertions.*;
 
 class HtmlParserTest {
 
     @Test
     public void HtmlParserTest() throws BadLocationException, IOException {
-        String filename = "C:\\Users\\nikit\\git\\metadata-extractor-java\\pdftest\\src\\main\\java\\com\\Parsers\\resources\\theory_breakdown_final.html";
+        File filename = new File("pdftest/src/test/java/resources/theory_breakdown_final.html");
         Parser technology = new HtmlParser();
+        //root.listFiles()
         StringBuilder Line = new StringBuilder();
-        technology.Parse(filename, Line);
+        technology.Parse(filename.getAbsolutePath(), Line);
         String trueResult = "test html\n" +  "yo\n";
-        assertEquals(trueResult, Line);
+        assertEquals(trueResult, Line.toString());
     }
 }

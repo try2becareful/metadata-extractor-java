@@ -19,6 +19,7 @@ public class RtfParser implements Parser {
             FileWriter writer = new FileWriter("result.txt", true);
             writer.write("\n------------------------------- " + file_name + " -------------------------------\n");
             writer.write(styledDoc.getText(0, styledDoc.getLength()));
+            Line.append(styledDoc.getText(0, styledDoc.getLength()));
             writer.write("\n--------------------------------------------------------------\n");
             writer.close();
 
