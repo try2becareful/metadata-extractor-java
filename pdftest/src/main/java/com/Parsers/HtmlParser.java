@@ -22,12 +22,15 @@ public class HtmlParser implements Parser {
 
             FileWriter writer = new FileWriter("result.txt", true);
             writer.write("\n------------------------------- " + file_name + " -------------------------------\n");
+            System.out.println("\n------------------------------- " + file_name + " -------------------------------\n");
             for (Element line : list_of_paragraphs) {
                 if (!line.ownText().isEmpty()) {
                     writer.write(line.ownText());
                     Line.append(line.ownText()).append("\n");
+                    System.out.println(line.ownText());
                 }
             }
+            System.out.println("\n--------------------------------------------------------------\n");
             writer.write("\n--------------------------------------------------------------\n");
             writer.close();
         } catch (IOException e)  {
