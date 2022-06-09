@@ -18,4 +18,11 @@ docker run metadata-extractor
 ```
 ----
 
+Запуск всех тестов:
+```bash
+cd pdftest
+mvn clean test
+```
+----
+
 [CRC card](CRC-cards.md)
