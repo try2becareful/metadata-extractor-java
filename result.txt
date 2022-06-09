@@ -290,3 +290,55 @@ test htmlyo
 ------------------------------- C:\Users\nikit\git\metadata-extractor-java\pdftest\src\test\java\resources\test.rtf -------------------------------
 
 --------------------------------------------------------------
+
+------------------------------- C:\Users\nikit\git\metadata-extractor-java\pdftest\src\test\java\resources\theory_breakdown_final.html -------------------------------
+test htmlyo
+--------------------------------------------------------------
+
+------------------------------- C:\Users\nikit\git\metadata-extractor-java\pdftest\src\test\java\resources\test.rtf -------------------------------
+
+--------------------------------------------------------------
+
+------------------------------- C:\Users\nikit\git\metadata-extractor-java\pdftest\src\test\java\resources\test.rtf -------------------------------
+
+--------------------------------------------------------------
+
+------------------------------- C:\Users\nikit\git\metadata-extractor-java\pdftest\src\test\java\resources\test.rtf -------------------------------
+
+--------------------------------------------------------------
+
+------------------------------- C:\Users\nikit\git\metadata-extractor-java\pdftest\src\test\java\resources\test.rtf -------------------------------
+
+--------------------------------------------------------------
+
+------------------------------- C:\Users\nikit\git\metadata-extractor-java\pdftest\src\test\java\resources\test.rtf -------------------------------
+
+--------------------------------------------------------------
+
+------------------------------- C:\Users\nikit\git\metadata-extractor-java\pdftest\src\test\java\resources\test.rtf -------------------------------
+
+--------------------------------------------------------------
+
+------------------------------- C:\Users\nikit\git\metadata-extractor-java\pdftest\src\test\java\resources\test.rtf -------------------------------
+
+--------------------------------------------------------------
+
+------------------------------- C:\Users\nikit\git\metadata-extractor-java\pdftest\src\test\java\resources\test.rtf -------------------------------
+
+--------------------------------------------------------------
+
+------------------------------- C:\Users\nikit\git\metadata-extractor-java\pdftest\src\test\java\resources\test.rtf -------------------------------
+
+--------------------------------------------------------------
+
+------------------------------- C:\Users\nikit\git\metadata-extractor-java\pdftest\src\test\java\resources\test.rtf -------------------------------
+
+--------------------------------------------------------------
+
+------------------------------- C:\Users\nikit\git\metadata-extractor-java\pdftest\src\test\java\resources\test.rtf -------------------------------
+
+--------------------------------------------------------------
+
+------------------------------- pdftest\src\test\java\resources\test.rtf -------------------------------
+
+--------------------------------------------------------------

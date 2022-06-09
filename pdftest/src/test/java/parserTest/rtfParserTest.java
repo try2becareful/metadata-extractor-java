@@ -16,7 +16,7 @@ class RtfParserTest {
 
     @Test
     public void rtfParserTest() throws BadLocationException, IOException {
-        String filename = "C:\\Users\\nikit\\git\\metadata-extractor-java\\pdftest\\src\\test\\java\\resources\\test.rtf";
+        String filename = "src/test/java/resources/test.rtf";
         Parser technology = new RtfParser();
         StringBuilder Line = new StringBuilder();
         technology.Parse(filename, Line);

@@ -11,7 +11,7 @@ class HtmlParserTest {
 
     @Test
     public void HtmlParserTest() throws BadLocationException, IOException {
-        File filename = new File("pdftest/src/test/java/resources/theory_breakdown_final.html");
+        File filename = new File("src/test/java/resources/theory_breakdown_final.html");
         Parser technology = new HtmlParser();
         //root.listFiles()
         StringBuilder Line = new StringBuilder();
